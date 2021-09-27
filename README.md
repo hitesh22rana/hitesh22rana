@@ -3,7 +3,7 @@
 <img height="200cm" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </p>
 
-- 🌱 I am an open-source enthusiast. I learned a lot from the open-source community and i love to make open source contributions. 
+- 🌱 I am an open-source enthusiast, and i love to make open source contributions. 
 - 👨‍💻 I’m currently learning Web development and DSA.
 - 👯 I’m looking to collaborate on Python and Web development projects.
 - 💬 Ask me about Python , C++ , Java
