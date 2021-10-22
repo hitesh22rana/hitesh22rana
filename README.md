@@ -1,24 +1,87 @@
 <h1 align="center"> Hola, I'm Hitesh Rana! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center">
-<img height="200cm" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<br>
+<img align="left" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width = "200" height = "200">
+<img align = "center" src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "200" height = "200">
+<img align="right" src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width = "200" height = "200">
+<br>
+<br>
+<table>
+<tr>
+<td>
+<h2 align = "center">📖 About Me</h2>
+
+<p align = "center">
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering, and I m passionate about learning new technologies.<br>
+👨‍💻 I’m currently learning Web development and DSA.<br>
+👯 I’m looking to collaborate on Python and Web development projects.<br>
+💬 Ask me about Python , C++ , Java <br>
 </p>
+</h4>
+</td>
+</tr>
+</table>
+<hr>
 
-- 🌱 I am an open-source enthusiast, and i love to make open source contributions. 
-- 👨‍💻 I’m currently learning Web development and DSA.
-- 👯 I’m looking to collaborate on Python and Web development projects.
-- 💬 Ask me about Python , C++ , Java
+<!-- Skills & Technology -->
 
-<h2 align="center">⚙️ GitHub Statistics</h2>
+<h1 align = "center">⚡ Skills & Technologies</h1>
+<table align = "center">
+<tr>
+<td>
+<h2 align = "center">Languages</h2>
+
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+</td>
+<td>
+<h2 align = "center">Tools</h2>
+  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
+</td>
+</tr>
+</table>
+<hr>
+
+<!-- GitHub Contribution Graph -->
+<hr><br>
+
+[![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=gotham)](https://github.com/hitesh22rana)
+
+<hr>
+
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<table align = "center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&show_icons=true&locale=en&layout=compact&theme=gotham" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-<a href="https://github.com/hitesh22rana">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh22rana&layout=compact&langs_count=8&theme=dark">
-</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh22rana&theme=gotham" />
 </p>
+<br>
+<hr>
 
 
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/hitesh-rana-108983201"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hitesh22rana@gmail.com?subject=Hello%20Hitesh,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
