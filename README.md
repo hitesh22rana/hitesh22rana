@@ -86,9 +86,6 @@
   <a href="mailto:hitesh22rana@gmail.com?subject=Hello%20Hitesh,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
-<br />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hitesh22rana/count.svg" />
-</p>
+<h2 align = "center">Visitor Count<br>
+<img align = "center" src="https://profile-counter.glitch.me/hitesh22rana/count.svg" />
+</h2>
