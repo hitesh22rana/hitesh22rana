@@ -1,9 +1,9 @@
 <h1 align="center"> Hola, I'm Hitesh Rana! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center">
 <br>
-<img align="left" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width = "200" height = "200">
-<img align = "center" src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "200" height = "200">
-<img align="right" src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width = "200" height = "200">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width = "100" height = "100">
+<img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
+<img src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width = "100" height = "100">
 <br>
 <br>
 <table>
