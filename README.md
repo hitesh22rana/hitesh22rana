@@ -56,7 +56,7 @@
 <!-- GitHub Contribution Graph -->
 <hr><br>
 
-[![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=react-dark)](https://github.com/hitesh22rana)
+[![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=gotham)](https://github.com/hitesh22rana)
 
 <hr>
 
