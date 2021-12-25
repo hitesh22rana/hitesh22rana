@@ -47,16 +47,16 @@
 <table align = "center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&show_icons=true&locale=en&layout=compact&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&show_icons=true&locale=en&layout=compact&theme=radical" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh22rana&theme=gotham" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh22rana&theme=radical" />
 </p>
 <br>
 <hr>
