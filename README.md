@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, I'm Hitesh Rana! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
+<h1 align="center"> Hola, I'm Hitesh Rana! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> </h1>
 <p align="center">
 <br>
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width = "100" height = "100">
