@@ -10,34 +10,13 @@
 <br>
 <br>
 </div>
-<hr>
 
 <!-- Language & Technology -->
 
 <h1 align = "center">⚡ Language & Technologies</h1>
-<table align = "center">
-<tr>
-<td>
-<img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/90901154/145535333-61361246-52a5-4756-a517-966f25c27b0a.png" />
-<img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</td>
-</table>
-<hr>
+<h2 align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,java,golang,html,css,scss,react,redux,next,tailwind,nest,fastapi,express,flask,git,github,linux,bash,postgres,mongo,redis,firebase,docker,aws,heroku,vercel">
+</h2>
 
 <!-- GitHub Contribution Graph -->
 <hr><br>
@@ -68,10 +47,11 @@
 
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-   <a target="_blank"href="https://www.linkedin.com/in/hitesh-rana-108983201"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
+   <a target="_blank"href="https://www.linkedin.com/in/hitesh22rana"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
   <a href="mailto:hitesh22rana@gmail.com?subject=Hello%20Hitesh,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
  </div>
 
 <h2 align = "center">Visitor Count<br>
 <img align = "center" src="https://profile-counter.glitch.me/hitesh22rana/count.svg" />
 </h2>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
