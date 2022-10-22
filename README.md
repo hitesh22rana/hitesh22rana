@@ -1,6 +1,6 @@
 <h1 align="center"> Hola, I'm Hitesh Rana! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> </h1>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Developer<3;Programmer"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Developer<3;Programmer;DevOps"></a>
 </p>
 <div align="center">
 <br>
@@ -51,7 +51,7 @@
   <a href="mailto:hitesh22rana@gmail.com?subject=Hello%20Hitesh,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
  </div>
 
-<h2 align = "center">Visitor Count<br>
+<h2 align = "center">👀Visitor Count<br>
 <img align = "center" src="https://profile-counter.glitch.me/hitesh22rana/count.svg" />
 </h2>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
