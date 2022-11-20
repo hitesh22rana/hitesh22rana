@@ -18,38 +18,51 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,java,golang,html,css,scss,react,redux,next,tailwind,nest,fastapi,express,flask,git,github,linux,bash,postgres,mongo,redis,mysql,firebase,docker,aws,heroku,vercel">
 </h2>
 
-<!-- GitHub Contribution Graph -->
-<hr><br>
-
-[![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=gotham)](https://github.com/hitesh22rana)
-
-<hr>
+<!-- Github Statistics -->
 
 <h2 align="center">📈 GitHub Statistics</h2>
-
 <table align = "center">
-<tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&show_icons=true&locale=en&layout=compact&theme=radical" />
 </td>
-</tr>
 </table>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh22rana&theme=radical" />
 </p>
-<br>
-<hr>
 
+<!-- Top Repositories -->
+
+<h2 align="center">📈 Top Repositories</h2>
+<table align = "center">
+<td>
+  <a href="https://github.com/hitesh22rana/ghoulbond">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=ghoulbond&theme=radical" />
+  </a>
+</td>
+<td>
+<a href="https://github.com/hitesh22rana/cyberpecker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=cyberpecker&theme=radical" />
+</a>
+</td>
+</table>
+
+<!-- GitHub Contribution Graph -->
+
+[![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=gotham)](https://github.com/hitesh22rana)
+
+<!-- Connect With Me -->
 
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
    <a target="_blank"href="https://www.linkedin.com/in/hitesh22rana"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
   <a href="mailto:hitesh22rana@gmail.com?subject=Hello%20Hitesh,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
  </div>
+
+<!-- Visitor Count -->
 
 <h2 align = "center">👀Visitor Count<br>
 <img align = "center" src="https://profile-counter.glitch.me/hitesh22rana/count.svg" />
