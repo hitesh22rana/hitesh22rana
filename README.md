@@ -52,13 +52,15 @@
 
 <!-- GitHub Contribution Graph -->
 
-[![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=gotham)](https://github.com/hitesh22rana)
+<!-- [![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=gotham)](https://github.com/hitesh22rana) -->
 
 <!-- Connect With Me -->
 
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-   <a target="_blank"href="https://www.linkedin.com/in/hitesh22rana"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://hitesh22rana.netlify.app/"\>Portfolio Website</a>&nbsp;&nbsp;
+</div>
+<div align="center" style="margin: 20px;">
   <a href="mailto:hitesh22rana@gmail.com?subject=Hello%20Hitesh,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
  </div>
 
