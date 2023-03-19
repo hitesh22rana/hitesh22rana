@@ -7,8 +7,7 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width = "100" height = "100">
 <img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
 <img src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width = "100" height = "100">
-<br>
-<br>
+<br/>
 </div>
 
 <!-- Language & Technology -->
@@ -60,10 +59,14 @@
 <div align="center">
   <a target="_blank" href="https://hitesh22rana.netlify.app/"\>Portfolio Website</a>&nbsp;&nbsp;
 </div>
+<br/>
 <div align="center" style="margin: 20px;">
   <a href="mailto:hitesh22rana@gmail.com?subject=Hello%20Hitesh,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
  </div>
-
+ <br/>
+ <div align="center" style="margin: 20px;">
+   <a href="https://app.daily.dev/ghoulbond"><img src="https://api.daily.dev/devcards/4c8c1e0e64574b2f9c8b920294d4d59d.png?r=g1o" width="250" alt="HITESH RANA's Dev Card"/></a>
+ </div>
 <!-- Visitor Count -->
 
 <h2 align = "center">👀Visitor Count<br>
