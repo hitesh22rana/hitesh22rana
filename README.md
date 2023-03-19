@@ -65,7 +65,7 @@
  </div>
  <br/>
  <div align="center" style="margin: 20px;">
-   <a href="https://app.daily.dev/ghoulbond"><img src="https://api.daily.dev/devcards/4c8c1e0e64574b2f9c8b920294d4d59d.png?r=g1o" width="250" alt="HITESH RANA's Dev Card"/></a>
+   <a href="https://app.daily.dev/ghoulbond"><img src="https://github.com/hitesh22rana/hitesh22rana/blob/master/devcard.svg" width="250" alt="HITESH RANA's Dev Card"/></a>
  </div>
 <!-- Visitor Count -->
 
