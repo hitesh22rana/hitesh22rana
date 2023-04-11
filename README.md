@@ -22,15 +22,15 @@
 <h2 align="center">📈 GitHub Statistics</h2>
 <table align = "center">
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=synthwave"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&show_icons=true&locale=en&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&show_icons=true&locale=en&layout=compact&theme=synthwave" />
 </td>
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh22rana&theme=radical" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh22rana&theme=synthwave" />
 </p>
 
 <!-- Top Repositories -->
@@ -39,12 +39,12 @@
 <table align = "center">
 <td>
   <a href="https://github.com/hitesh22rana/ghoulbond">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=ghoulbond&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=ghoulbond&theme=synthwave" />
   </a>
 </td>
 <td>
 <a href="https://github.com/hitesh22rana/cyberpecker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=cyberpecker&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=cyberpecker&theme=synthwave" />
 </a>
 </td>
 </table>
