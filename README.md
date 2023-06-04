@@ -25,7 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=synthwave"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&show_icons=true&locale=en&layout=compact&theme=synthwave" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&langs_count=10&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&hide_progress=true&theme=synthwave" />
 </td>
 </table>
 
@@ -49,10 +49,6 @@
 </td>
 </table>
 
-<!-- GitHub Contribution Graph -->
-
-<!-- [![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=gotham)](https://github.com/hitesh22rana) -->
-
 <!-- Connect With Me -->
 
 <h2 align="center">🔗 Connect With Me</h2>
@@ -67,6 +63,7 @@
  <div align="center" style="margin: 20px;">
    <a href="https://app.daily.dev/ghoulbond"><img src="https://github.com/hitesh22rana/hitesh22rana/blob/main/devcard.svg" width="250" alt="Hitesh Rana's Dev Card"/></a>
  </div>
+ 
 <!-- Visitor Count -->
 
 <h2 align = "center">👀Visitor Count<br>
