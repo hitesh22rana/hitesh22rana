@@ -14,7 +14,7 @@
 
 <h1 align = "center">⚡ Language & Technologies</h1>
 <h2 align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,java,golang,html,css,scss,react,redux,next,tailwind,nest,fastapi,express,flask,git,github,linux,bash,postgres,mongo,redis,mysql,firebase,docker,aws,heroku,vercel">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,golang,java,html,css,scss,react,next,tailwind,redux,fastapi,nodejs,express,flask,git,github,linux,bash,mongo,redis,postgres,mysql,firebase,docker,aws,heroku,vercel">
 </h2>
 
 <!-- Github Statistics -->
