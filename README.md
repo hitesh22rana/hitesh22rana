@@ -43,8 +43,8 @@
   </a>
 </td>
 <td>
-<a href="https://github.com/hitesh22rana/cyberpecker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=cyberpecker&theme=synthwave" />
+<a href="https://github.com/hitesh22rana/Optysys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=Optysys&theme=synthwave" />
 </a>
 </td>
 </table>
