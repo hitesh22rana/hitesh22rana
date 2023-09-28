@@ -1,6 +1,8 @@
 <h1 align="center">Hola, I'm Hitesh Rana!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"></h1>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Developer<3;DevOps;Programmer"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Developer<3;DevOps;Programmer">
+  </a>
 </p>
 <div align="center">
 <br>
@@ -22,10 +24,10 @@
 <h2 align="center">📈 GitHub Statistics</h2>
 <table align = "center">
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hitesh22rana&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=synthwave"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&langs_count=10&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&hide_progress=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh22rana&langs_count=10&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&hide_progress=true&theme=synthwave" />
 </td>
 </table>
 
