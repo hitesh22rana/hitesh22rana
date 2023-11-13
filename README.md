@@ -58,7 +58,7 @@
 
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-  <a target="_blank" href="https://hitesh22rana.netlify.app/"\>Portfolio Website</a>&nbsp;&nbsp;
+  <a target="_blank" href="https://bio.link/hitesh22rana"\>Visit🌐</a>&nbsp;&nbsp;
 </div>
 <br/>
 <div align="center" style="margin: 20px;">
