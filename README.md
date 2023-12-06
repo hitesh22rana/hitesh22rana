@@ -16,14 +16,12 @@
 </div>
 
 <!-- Language & Technology -->
-
 <h1 align = "center">⚡ Language & Technologies</h1>
 <h2 align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,golang,java,html,css,scss,react,next,tailwind,fastapi,nodejs,express,redux,flask,git,github,linux,bash,mongo,redis,postgres,mysql,firebase,docker,kubernetes,aws,vercel">
 </h2>
 
 <!-- Github Statistics -->
-
 <h2 align="center">📈 GitHub Statistics</h2>
 <table align = "center">
 <td>
@@ -39,7 +37,6 @@
 </p>
 
 <!-- Top Repositories -->
-
 <h2 align="center">📈 Top Repositories</h2>
 <table align = "center">
 <td>
@@ -55,7 +52,6 @@
 </table>
 
 <!-- Connect With Me -->
-
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
   <a target="_blank" href="https://bio.link/hitesh22rana"\>Visit🌐</a>&nbsp;&nbsp;
@@ -70,7 +66,6 @@
  </div>
  
 <!-- Visitor Count -->
-
 <h2 align = "center">👀Visitor Count<br>
 <img align = "center" src="https://profile-counter.glitch.me/hitesh22rana/count.svg" />
 </h2>
