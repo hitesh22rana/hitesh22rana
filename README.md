@@ -8,6 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Backend<3;DevOps;">
   </a>
 </p>
+
 <div align="center">
 <br>
 <img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
