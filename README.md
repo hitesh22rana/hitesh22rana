@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hola, I'm Hitesh Rana!</h1>
-  <h4>Turning bits into bytes and bugs into features. 🐞👾</h4>
 </div>
 
 <p align="center">
