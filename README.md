@@ -38,21 +38,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh22rana&theme=synthwave" />
 </p>
 
-<!-- Top Repositories -->
-<h2 align="center">📈 Top Repositories</h2>
-<table align = "center">
-<td>
-  <a href="https://github.com/hitesh22rana/ghoulbond">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=ghoulbond&theme=synthwave" />
-  </a>
-</td>
-<td>
-<a href="https://github.com/hitesh22rana/Optysys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesh22rana&repo=Optysys&theme=synthwave" />
-</a>
-</td>
-</table>
-
 <!-- Connect With Me -->
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
