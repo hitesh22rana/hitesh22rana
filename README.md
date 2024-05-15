@@ -62,10 +62,6 @@
 <div align="center" style="margin: 20px;">
   <a href="mailto:hitesh22rana@gmail.com?subject=Hello%20Hitesh,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Hitesh-Rana" height="35" width="45" /></a>&nbsp;&nbsp;
  </div>
- <br/>
- <div align="center" style="margin: 20px;">
-   <a href="https://app.daily.dev/ghoulbond"><img src="https://github.com/hitesh22rana/hitesh22rana/blob/main/devcard.svg" width="250" alt="Hitesh Rana's Dev Card"/></a>
- </div>
  
 <!-- Visitor Count -->
 <h2 align = "center">👀Visitor Count<br>
