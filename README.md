@@ -20,7 +20,7 @@
 <!-- Language & Technology -->
 <h1 align = "center">⚡ Language & Technologies</h1>
 <h2 align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,golang,java,html,css,scss,react,next,tailwind,fastapi,nodejs,express,redux,flask,git,github,linux,bash,mongo,redis,postgres,mysql,firebase,docker,kubernetes,aws,vercel">
+<img src="https://skillicons.dev/icons?i=python,go,cpp,javascript,typescript,react,next,vite,tailwind,fastapi,nodejs,express,redux,git,linux,bash,postgresql,redis,mongo,mysql,rabbitmq,docker,kubernetes,aws">
 </h2>
 
 <!-- Github Statistics -->
