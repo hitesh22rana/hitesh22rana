@@ -13,7 +13,7 @@
 <h2 align = "center">⚡ Language & Technologies</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,go,cpp,javascript,typescript,react,next,vite,tailwind,fastapi,nodejs,express,redux,git,linux">
-  <img src="https://skillicons.dev/icons?i=bash,postgresql,redis,mongo,mysql,rabbitmq,docker,kubernetes,aws"/>
+  <img src="https://skillicons.dev/icons?i=bash,postgresql,redis,mongo,mysql,rabbitmq,kafka,docker,kubernetes,aws"/>
 </div>
 
 <!-- Github Statistics -->
