@@ -12,8 +12,9 @@ I'm Hitesh Rana, a backend engineer at Mercari. Outside work, I build backend sy
 
 ### Some things I like to do
 
-- Build backend systems that behave predictably under retries and partial failures.
-- Learn storage internals by building write-ahead logs and B+ trees.
-- Make small tools that cut repetitive engineering work.
+- Build microservices with clear boundaries and useful observability.
+- Work on distributed systems, especially scheduling, messaging, retries, and failure recovery.
+- Explore database and storage internals.
+- Build developer tools that cut repetitive work.
 
 [LinkedIn](https://www.linkedin.com/in/hitesh22rana/) · [Email](mailto:hitesh22rana@gmail.com)
