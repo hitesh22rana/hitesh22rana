@@ -4,11 +4,11 @@ I'm Hitesh Rana, a backend engineer at Mercari. Outside work, I build backend sy
 
 ### Things I've built
 
-- [Chronoverse](https://github.com/hitesh22rana/chronoverse) - self-hosted job orchestration deployable on Kubernetes, with Kafka-driven Docker execution, durable retries, searchable logs, and OpenTelemetry.
-- [jsonlogic2sql](https://github.com/hitesh22rana/jsonlogic2sql) - turns JSON Logic into parameterized SQL for BigQuery, Spanner, PostgreSQL, DuckDB, and ClickHouse.
-- [sourcecollector](https://github.com/hitesh22rana/sourcecollector) - a Go CLI that bundles source files into one text file for passing codebase context to AI tools.
+- [Chronoverse](https://github.com/hitesh22rana/chronoverse) - a distributed job scheduler and orchestrator for your own infrastructure.
+- [jsonlogic2sql](https://github.com/hitesh22rana/jsonlogic2sql) - a JSON Logic to SQL transpiler across multiple SQL dialects (BigQuery, Spanner, PostgreSQL, DuckDB, and ClickHouse).
+- [sourcecollector](https://github.com/hitesh22rana/sourcecollector) - a Go CLI that bundles source files into one text file to share codebase context with AI tools.
 - [MQ](https://github.com/hitesh22rana/mq) - a pull-based gRPC message broker with batched reads, write-ahead logging, and consumer-controlled backpressure.
-- [SoundScripter](https://github.com/hitesh22rana/SoundScripter) - processes audio and video through RabbitMQ/Celery workers, with live updates over Redis pub/sub and Server-Sent Events.
+- [SoundScripter](https://github.com/hitesh22rana/SoundScripter) - automates audio and video transcription through a distributed workflow.
 
 ### Some things I like to do
 
