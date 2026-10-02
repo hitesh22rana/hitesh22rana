@@ -2,6 +2,8 @@
 
 I'm Hitesh Rana, a backend engineer at Mercari. Outside work, I build backend systems and developer tools, mostly in Go.
 
+[Personal website](https://hitesh22rana.github.io/)
+
 ### Things I've built
 
 - [chronoverse](https://github.com/hitesh22rana/chronoverse) - a distributed job scheduler and orchestrator for your own infrastructure.
